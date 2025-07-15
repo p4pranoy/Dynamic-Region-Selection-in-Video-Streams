@@ -28,8 +28,8 @@ How to Run
     python "Dynamic Region Selection in Video Streams.py"
 3. Once the video window appears:
 
-Click once to set the top-left corner of your desired region.
+    Click once to set the top-left corner of your desired region.
 
-Click again to set the bottom-right corner.
+    Click again to set the bottom-right corner.
 
-Press q to exit the application.
+    Press q to exit the application.
